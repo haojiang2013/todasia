@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#fdfaf5"/>
+  <rect x="100" y="100" width="1000" height="430" rx="16" fill="#fff" stroke="#e8e0d5" stroke-width="2"/>
+  <text x="180" y="220" fill="#c2410c" font-family="system-ui,sans-serif" font-weight="900" font-size="56" letter-spacing="-0.02em">TodasIA</text>
+  <text x="180" y="280" fill="#5c5248" font-family="system-ui,sans-serif" font-weight="600" font-size="32">El directorio de herramientas IA en español</text>
+  <g transform="translate(180,340)">
+    <rect x="0" y="0" width="190" height="70" rx="10" fill="#fef2f2"/><text x="95" y="30" text-anchor="middle" fill="#b91c1c" font-family="system-ui,sans-serif" font-weight="900" font-size="28">24+</text><text x="95" y="55" text-anchor="middle" fill="#5c5248" font-family="system-ui,sans-serif" font-size="16">Herramientas</text>
+    <rect x="210" y="0" width="190" height="70" rx="10" fill="#ecfeff"/><text x="305" y="30" text-anchor="middle" fill="#0e7490" font-family="system-ui,sans-serif" font-weight="900" font-size="28">🇪🇸 12</text><text x="305" y="55" text-anchor="middle" fill="#5c5248" font-family="system-ui,sans-serif" font-size="16">Españolas/LatAm</text>
+    <rect x="420" y="0" width="190" height="70" rx="10" fill="#f0fdf4"/><text x="515" y="30" text-anchor="middle" fill="#15803d" font-family="system-ui,sans-serif" font-weight="900" font-size="28">🆓 18</text><text x="515" y="55" text-anchor="middle" fill="#5c5248" font-family="system-ui,sans-serif" font-size="16">Plan gratuito</text>
+  </g>
+  <text x="180" y="480" fill="#999086" font-family="system-ui,sans-serif" font-size="22">todasia.com</text>
+</svg>
